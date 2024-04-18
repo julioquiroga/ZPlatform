@@ -24,7 +24,7 @@
     }
   },
   "headerData": {
-    "logo": "Z Platform 1.0",
+    "logo": "Z Platform 2.0",
     "links": [
       { "label": "About", "href": "#" },
       { "label": "Services", "href": "#" },
@@ -34,12 +34,11 @@
     ]
   },
   "heroData": {
-    "title": "ABC Group 1.0",
-    "subTitle": "Production Environment",
+    "title": "ABC Group",
+    "subTitle": "Development Environment",
     "primaryCta": "Github Repo",
-    "secondaryCta": "See our pricing",
     "secondaryCta": "Support",
-    "highlightedTitle": "Z Platform"
+    "highlightedTitle": "Z Platform 2.0"
   },
   "servicesData": {
     "title": "Everything you need to build a website",
