@@ -35,9 +35,8 @@
   },
   "heroData": {
     "title": "ABC Group 1.0",
-    "subTitle": "Production Environment",
+    "subTitle": "Staging Environment",
     "primaryCta": "Github Repo",
-    "secondaryCta": "See our pricing",
     "secondaryCta": "Support",
     "highlightedTitle": "Z Platform"
   },
