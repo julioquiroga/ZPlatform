@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "Luna Landing your perfect landing page",
-    "description": "Landing page template",
+    "title": "Z Platform",
+    "description": "ABC Group",
     "lang": "en",
     "charset": "UTF-8",
     "ldJson": {
       "@context": "http://schema.org",
       "@type": "Organization",
-      "name": "Luna Landing",
+      "name": "Z Platform",
       "description": "Fictitious company that seeks to elevate and simplify the lives of web developers.",
       "url": "https://luna-landing-rust.vercel.app/",
       "logo": "./public/favicon.svg",
       "contactPoint": {
         "@type": "ContactPoint",
-        "email": "luna-landing@luna.com",
+        "email": "julioquiroga@hotmail.com",
         "contactType": "Client Service"
       },
       "sameAs": [
@@ -24,7 +24,7 @@
     }
   },
   "headerData": {
-    "logo": "Luna Landing",
+    "logo": "Z Platform 1.0",
     "links": [
       { "label": "About", "href": "#" },
       { "label": "Services", "href": "#" },
@@ -34,11 +34,12 @@
     ]
   },
   "heroData": {
-    "title": "Open Your Mind to the Universe: Welcome to",
-    "subTitle": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "title": "ABC Group 1.0",
+    "subTitle": "Production Environment",
     "primaryCta": "Github Repo",
     "secondaryCta": "See our pricing",
-    "highlightedTitle": "Luna Landing"
+    "secondaryCta": "Support",
+    "highlightedTitle": "Z Platform"
   },
   "servicesData": {
     "title": "Everything you need to build a website",
@@ -165,8 +166,8 @@
     ]
   },
   "footerData": {
-    "logo": "Luna Landing",
-    "description": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "logo": "ABC Group",
+    "description": "Z Platform",
     "links": [
       { "label": "About", "href": "/" },
       { "label": "Services", "href": "/" },
