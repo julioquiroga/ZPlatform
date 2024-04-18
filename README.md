@@ -1,7 +1,7 @@
 ![image](https://yovendedor.mx/ZPlatform.png)
 
 
-# Z Platform 1.0
+# Z Platform ver 1.0 Production Environment
 
 Z Platform is an innovative and highly customizable landing page that allows you to create and modify your website easily and quickly through a JSON file. Harnessing the power of Astro, a modern and efficient web development tool, provides you with an unparalleled development experience, enabling you to focus on your site's design and content without worrying about the complexity of code.
 
