@@ -34,12 +34,11 @@
     ]
   },
   "heroData": {
-    "title": "ABC Group 1.0",
+    "title": "ABC Group",
     "subTitle": "Production Environment",
     "primaryCta": "Github Repo",
-    "secondaryCta": "See our pricing",
     "secondaryCta": "Support",
-    "highlightedTitle": "Z Platform"
+    "highlightedTitle": "Z Platform 1.0"
   },
   "servicesData": {
     "title": "Everything you need to build a website",
