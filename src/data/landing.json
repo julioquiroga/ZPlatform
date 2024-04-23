@@ -24,7 +24,7 @@
     }
   },
   "headerData": {
-    "logo": "Z Platform 2.0 interview",
+    "logo": "Z Platform 2.0",
     "links": [
       { "label": "About", "href": "#" },
       { "label": "Services", "href": "#" },
@@ -35,7 +35,7 @@
   },
   "heroData": {
     "title": "ABC Group",
-    "subTitle": "Development Environment",
+    "subTitle": "Production Environment",
     "primaryCta": "Github Repo",
     "secondaryCta": "Support",
     "highlightedTitle": "Z Platform 2.0"
